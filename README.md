@@ -1,6 +1,7 @@
 # SEprojectTeam04
 
 **RESEARCH QUESTIONS**
+
 1.What is the typical structure of conversations between developers and ChatGPT? How many turns does it take on average to reach a conclusion? 
 
 2. How precise is ChatGPT at providing responses to developer's inquiries about various programming languages? 
