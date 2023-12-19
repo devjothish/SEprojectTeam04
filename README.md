@@ -8,8 +8,7 @@
 
 3.How ChatGPT expedites the solution-finding process for developers which leading to time savings in their quest for answers? 
 
-Video presentation link: https://drive.google.com/file/d/1v6PzYbuo7BRxscnTYpV_GHxyj
-Aut8H9Z/view?usp=sharing
+Video presentation link: https://drive.google.com/file/d/1v6PzYbuo7BRxscnTYpV_GHxyjAut8H9Z/view?usp=sharing
 
 File path - Datasets are given in the respective file path in the code (Connected with Google Drive)
 Question1.py - Research question 1
